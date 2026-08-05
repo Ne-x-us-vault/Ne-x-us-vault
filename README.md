@@ -38,24 +38,11 @@ I'm a maker at heart — I'd rather bolt a smart sensor onto an existing system 
 
 <br>
 
-## GitHub Stats
+## Currently Building
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ne-x-us-vault&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ne-x-us-vault&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+**[Nexus Launcher](https://github.com/Ne-x-us-vault/custom-launcher-nexus)** — a frost-glass, keyboard-first GNOME Shell application launcher with instant app search, arrow-key navigation, and quick actions for Terminal, Files, GitHub, and LinkedIn.
 
 <br>
-
-## Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ne-x-us-vault/Ne-x-us-vault/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ne-x-us-vault/Ne-x-us-vault/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="contribution graph" src="https://raw.githubusercontent.com/Ne-x-us-vault/Ne-x-us-vault/pacman-output/breakout-contribution-graph.svg?game=breakout">
-</picture>
-
-<br><br>
 
 ## Connect
 
