@@ -1,61 +1,61 @@
-<h1 align="left">Hey 👋, I'm Jaswa</h1>
-
-<p align="left">
-  M.Tech CSE student based in Tamil Nadu, India, building across DevOps, application development, UI/UX, robotics, and embedded systems.
-</p>
-
-<br>
-
-## About Me
-
-I'm a maker at heart — I'd rather bolt a smart sensor onto an existing system than rebuild it from scratch. My work spans mobile app development, UI/UX design, and hardware-adjacent R&D, with a growing focus on robotics and embedded systems. Outside of coursework, I build and ship projects fast, usually powered by a hackathon deadline and a lot of coffee.
-
-<br>
-
-## Tech Stack
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
+
+# Jaswa J R
+**M.Tech CSE Student · Application Developer · UI/UX**
+
+Tamil Nadu, India
+
+[![Email](https://img.shields.io/badge/-jaswa.personal.3617%40outlook.com-333?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:jaswa.personal.3617@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-jaswa--j--r-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswa-j-r/)
+[![GitHub](https://img.shields.io/badge/-Ne--x--us--vault-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ne-x-us-vault)
+
 </div>
 
-<br>
+---
 
-## Currently Building
+### About
 
-**[Nexus Launcher](https://github.com/Ne-x-us-vault/custom-launcher-nexus)** — a frost-glass, keyboard-first GNOME Shell application launcher with instant app search, arrow-key navigation, and quick actions for Terminal, Files, GitHub, and LinkedIn.
+I build across mobile applications, UI/UX, and embedded systems, with a growing focus on robotics and DevOps. I favor practical, bolt-on solutions over full system rebuilds, and I work fastest under a deadline — most of my shipped projects started as hackathon builds.
 
-<br>
+---
 
-## Connect
+### Skills
 
-<p align="left">
-  <a href="mailto:jaswa.personal.3617@outlook.com">
-    <img src="https://img.shields.io/badge/Email-jaswa.personal.3617%40outlook.com-c9509b?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email"/>
-  </a>
-  <br>
-  <a href="mailto:jrjaswa3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jrjaswa3%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <br>
-  <a href="https://www.linkedin.com/in/jaswa-j-r/">
-    <img src="https://img.shields.io/badge/LinkedIn-jaswa--j--r-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+**Frameworks & Runtimes**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+
+**Platforms & Tools**
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)
+![YAML](https://img.shields.io/badge/-YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+
+---
+
+### Featured Project
+
+**[Nexus Launcher](https://github.com/Ne-x-us-vault/custom-launcher-nexus)**
+A frost-glass, keyboard-first GNOME Shell application launcher with instant app search, arrow-key navigation, and quick actions for Terminal, Files, GitHub, and LinkedIn.
+
+---
+
+### Focus Areas
+
+- DevOps & application development
+- UI/UX design
+- Robotics & embedded systems
+- R&D and rapid product development
