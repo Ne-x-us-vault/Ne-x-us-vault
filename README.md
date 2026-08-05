@@ -56,6 +56,7 @@ A frost-glass, keyboard-first GNOME Shell application launcher with instant app 
 ### Focus Areas
 
 - DevOps & Mobile application development
+- AI & ML in EDUTECH
 - UI/UX design
 - Robotics & embedded systems
 - R&D and rapid product development
