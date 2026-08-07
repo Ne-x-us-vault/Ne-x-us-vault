@@ -4,19 +4,6 @@
 **M.Tech CSE Student · Application Developer · UI/UX**
 Tamil Nadu, India
 
-<pre>
-      _________________
-     /                 \
-    |    ┌─────────┐    |
-    |    │ ▛▀▀▀▀▀▜ │ ↗  |
-    |    │ ▙▄▄▄▄▄▟ │    |
-    |    └─────────┘    |
-     \_________________/
-
-          N E X U S
-     Connect · Launch · Focus
-</pre>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=0A66C2&vCenter=true&width=560&lines=Building+across+mobile%2C+UI%2FUX+%26+embedded+systems;Bolt-on+solutions+%3E+full+system+rebuilds;Fastest+under+a+deadline" alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/-jaswa.personal.3617%40outlook.com-333?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:jaswa.personal.3617@outlook.com)
