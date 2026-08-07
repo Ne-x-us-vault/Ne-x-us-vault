@@ -1,10 +1,10 @@
-<div align="center">
+<div align="left">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,100:0A66C2&height=180&section=header&text=Jaswa%20J%20R&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=M.Tech%20CSE%20%C2%B7%20App%20Developer%20%C2%B7%20UI%2FUX&descAlignY=58&descSize=16" width="100%"/>
+# Jaswa J R
+**M.Tech CSE Student · Application Developer · UI/UX**
+Tamil Nadu, India
 
-<a href="https://github.com/Ne-x-us-vault">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Building+across+mobile%2C+UI%2FUX+%26+embedded+systems;Bolt-on+solutions+%3E+full+system+rebuilds;Fastest+under+a+deadline+%E2%9A%A1;Most+shipped+projects+started+as+hackathons" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=0A66C2&vCenter=true&width=560&lines=Building+across+mobile%2C+UI%2FUX+%26+embedded+systems;Bolt-on+solutions+%3E+full+system+rebuilds;Fastest+under+a+deadline" alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/-jaswa.personal.3617%40outlook.com-333?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:jaswa.personal.3617@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-jaswa--j--r-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswa-j-r/)
@@ -50,19 +50,6 @@ I build across mobile applications, UI/UX, and embedded systems, with a growing 
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ne-x-us-vault&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ne-x-us-vault&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ne-x-us-vault&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
----
-
 ### Featured Project
 
 **[Nexus Launcher](https://github.com/Ne-x-us-vault/custom-launcher-nexus)**
@@ -77,19 +64,3 @@ A frost-glass, keyboard-first GNOME Shell application launcher with instant app 
 - UI/UX design
 - Robotics & embedded systems
 - R&D and rapid product development
-
----
-
-<div align="center">
-
-### Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ne-x-us-vault/Ne-x-us-vault/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ne-x-us-vault/Ne-x-us-vault/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Ne-x-us-vault/Ne-x-us-vault/output/github-contribution-grid-snake.svg">
-</picture>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=100&section=footer" width="100%"/>
-
-</div>
