@@ -53,7 +53,18 @@ I build across mobile applications, UI/UX, and embedded systems, with a growing 
 ### Featured Project
 
 **[Nexus Launcher](https://github.com/Ne-x-us-vault/custom-launcher-nexus)**
+
 A frost-glass, keyboard-first GNOME Shell application launcher with instant app search, arrow-key navigation, and quick actions for Terminal, Files, GitHub, and LinkedIn.
+
+---
+
+### Contribution Graph
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ne-x-us-vault/Ne-x-us-vault/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ne-x-us-vault/Ne-x-us-vault/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ne-x-us-vault/Ne-x-us-vault/pacman-output/breakout-contribution-graph.svg?game=breakout">
+</picture>
 
 ---
 
