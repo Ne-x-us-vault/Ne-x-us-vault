@@ -64,15 +64,15 @@ A frost-glass, keyboard-first GNOME Shell application launcher with instant app 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Ne-x-us-vault/Ne-x-us-vault/output/breakout-contribution-graph-dark.svg">
+    srcset="https://raw.githubusercontent.com/Ne-x-us-vault/Ne-x-us-vault/output/galaga-contribution-graph-dark.svg">
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Ne-x-us-vault/Ne-x-us-vault/output/breakout-contribution-graph.svg">
+    srcset="https://raw.githubusercontent.com/Ne-x-us-vault/Ne-x-us-vault/output/galaga-contribution-graph.svg">
 
   <img
-    alt="Pac-Man contribution graph"
-    src="https://raw.githubusercontent.com/Ne-x-us-vault/Ne-x-us-vault/output/breakout-contribution-graph.svg">
+    alt="Galaga contribution graph"
+    src="https://raw.githubusercontent.com/Ne-x-us-vault/Ne-x-us-vault/output/galaga-contribution-graph.svg">
 </picture>
 
 ---
