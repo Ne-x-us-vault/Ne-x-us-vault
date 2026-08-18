@@ -20,6 +20,24 @@ I build across mobile applications, UI/UX, and embedded systems, with a growing 
 
 ---
 
+### Contribution Graph
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Ne-x-us-vault/Ne-x-us-vault/output/galaga-contribution-graph-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Ne-x-us-vault/Ne-x-us-vault/output/galaga-contribution-graph.svg">
+
+  <img
+    alt="Galaga contribution graph"
+    src="https://raw.githubusercontent.com/Ne-x-us-vault/Ne-x-us-vault/output/galaga-contribution-graph.svg">
+</picture>
+
+---
+
 ### Skills
 
 **Languages**
@@ -55,25 +73,6 @@ I build across mobile applications, UI/UX, and embedded systems, with a growing 
 **[Nexus Launcher](https://github.com/Ne-x-us-vault/custom-launcher-nexus)**
 
 A frost-glass, keyboard-first GNOME Shell application launcher with instant app search, arrow-key navigation, and quick actions for Terminal, Files, GitHub, and LinkedIn.
-
----
-
-
-### Contribution Graph
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Ne-x-us-vault/Ne-x-us-vault/output/galaga-contribution-graph-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Ne-x-us-vault/Ne-x-us-vault/output/galaga-contribution-graph.svg">
-
-  <img
-    alt="Galaga contribution graph"
-    src="https://raw.githubusercontent.com/Ne-x-us-vault/Ne-x-us-vault/output/galaga-contribution-graph.svg">
-</picture>
 
 ---
 
