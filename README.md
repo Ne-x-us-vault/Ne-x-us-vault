@@ -1,6 +1,6 @@
 <div align="left">
 
-# Jaswa J R
+# JASWA J R
 **M.Tech CSE Student · Application Developer · UI/UX**
 Tamil Nadu, India
 
