@@ -1,7 +1,7 @@
 <div align="left">
 
 # JASWA J R
-**M.Tech CSE Student · Application Developer · UI/UX**
+**M.Tech CSE Student · Application Developer · UI-UX**
 Tamil Nadu, India
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=0A66C2&vCenter=true&width=560&lines=Building+across+mobile%2C+UI%2FUX+%26+embedded+systems;Bolt-on+solutions+%3E+full+system+rebuilds;Fastest+under+a+deadline" alt="Typing SVG" />
